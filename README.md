@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am Archana Swaminathan, a recent graduate from BITS Pilani, Hyderabad, India. I am currently working as a Visiting Researcher at the University of Maryland, College Park, while being mentored by Prof. Abhinav Shrivastava. I previously worked with the V-SENSE Research Group, Trinity College Dublin , and being mentored by Prof. Aljosa Smolic. I’m part of a group that is investigating 3D Geometry for Deep Learning, where we focus on applications that extend to Image-based reconstruction, pose estimation and visual computing.
+I am Archana Swaminathan, a recent graduate from BITS Pilani, Hyderabad, India. I am currently a first year PhD Student at the University of Maryland, College Park, while being mentored by Prof. Abhinav Shrivastava. I previously worked with the V-SENSE Research Group, Trinity College Dublin , and being mentored by Prof. Aljosa Smolic. I’m part of a group that is investigating 3D Geometry for Deep Learning, where we focus on applications that extend to Image-based reconstruction, pose estimation and visual computing.
 
 In the past, I’ve had experience with working with Deep Learning in many projects, some of which are: predictive modelling for time series data, image encryption and decryption, compressive image sensing and denoising, semantic segmentation and object recognition.
 
